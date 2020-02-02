@@ -99,7 +99,7 @@ url-pretty: "albertocastelo.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: UA-157520188-1
+# google_analytics: UA-157520188-1
 
 # Google Tag Manager ID
 #gtm: ""
