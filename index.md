@@ -11,5 +11,3 @@ bigimg:
 I enjoy freedom and learning. Frugality and trying to solve difficult problems move me in that direction.
 
 Currently, I work as Data Scientist. Interested in Data, AI, Software and Startups. You can look at my CV [here](https://drive.google.com/file/d/1fMNah-glpXHH8a-gR8kj7rKC2AHK4G0j/view).
-
-<!-- ![](img/rock-cropped.jpeg) -->
