@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Alberto's Sharing Space
+title: Alberto Castelo
 
 # Short description of your site
 description: Data Science, AI and Software.
@@ -20,7 +20,7 @@ description: Data Science, AI and Software.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
   Blog: "blog"
   Weekly Digest: "digest"
   # Resources:
