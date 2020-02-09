@@ -30,7 +30,6 @@ navbar-links:
 
 collections_dir: entries
 collections:
-
   blogs:
     output: true
   digests:
