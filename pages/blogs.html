@@ -7,7 +7,9 @@ permalink: /blog/
 ---
 
 <div class="posts-list">
-  {% for post in site.blogs %}
+  {% assign mid = site.blogs | sort: 'date' %}
+  {% assign sorted = mid | reverse %}
+  {% for post in sorted %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
