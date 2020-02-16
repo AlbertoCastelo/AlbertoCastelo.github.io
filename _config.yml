@@ -188,6 +188,7 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
+      social-share: true # add social media sharing buttons to all blog posts
 
 
     
