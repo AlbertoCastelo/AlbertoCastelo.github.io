@@ -23,6 +23,7 @@ navbar-links:
   # About Me: "aboutme"
   Blog: "blog"
   Weekly Digest: "digest"
+  Projects: "projects"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
@@ -33,6 +34,8 @@ collections:
   blogs:
     output: true
   digests:
+    output: true
+  projects:
     output: true
 
 # Image to show in the navigation bar - image must be a square (width = height)
