@@ -7,7 +7,7 @@ tags: [learning, books]
 
 
 
-I recently read [Ultralearning - Master Hard Skills, Outsmart the Competition, and Accelerate your Career](https://www.amazon.com/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/006285268X) by [Scott H. Young](https://www.scotthyoung.com/). In this book, he exposes a set of 9 principles that underlie ultralearning projects. Ultralearning is the process of intense and self-directed learning and practice to acquire or improve a skill. A ultralearning project can last from 1 month to a year, depending on the nature. 
+I recently read [Ultralearning - Master Hard Skills, Outsmart the Competition, and Accelerate your Career](https://www.amazon.com/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/006285268X) by [Scott H. Young](https://twitter.com/ScottHYoung). In this book, he exposes a set of 9 principles that underlie ultralearning projects. Ultralearning is the process of intense and self-directed learning and practice to acquire or improve a skill. A ultralearning project can last from 1 month to a year, depending on the nature. 
 ---
 
 It is an easy to read and interesting book. I think it does not says something really new but I think it does a great work at summarizing and digesting a lot of literature in learning. To remember future me, I am leaving here some of the most interesting bullets.
