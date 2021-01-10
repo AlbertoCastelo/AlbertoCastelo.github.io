@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ultralearning by Scott H. Young
-tags: [software, julia, numba, python]
+tags: [learning, books]
 # image: https://avatars1.githubusercontent.com/u/743164?s=280&v=4
 ---
 
