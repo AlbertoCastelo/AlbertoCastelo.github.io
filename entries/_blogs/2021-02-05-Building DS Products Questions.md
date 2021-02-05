@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Questions when Building DS products
-tags: [learning, books]
+tags: [product_development, ds]
 # image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rxlogix.com%2Fen%2Fdata-analysis.html&psig=AOvVaw0j2dP4SbguSt3oyraosNSA&ust=1612594710483000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDj2M2V0u4CFQAAAAAdAAAAABAD
 ---
 
 I have been building Data Science (DS) products almost for the last 3 years since I first joined Nextail Labs. Furthermore, I have been working on funded DS projects since Graduate School back in 2015. In this time I have both enjoyed and suffered the process of building products that have an impact in the world. Since I believe that DS and AI can have a huge impact in people’s lives and in our world, I want to share the most important questions that we need to ask ourselves while building DS products. The questions are divided into several categories:
 
-Framing the Problem
-Metrics and Iterations
-DS Friendly Platform
-DS Risk Management
-Feeling the Customer
+* Framing the Problem
+* Metrics and Iterations
+* DS Friendly Platform
+* DS Risk Management
+* Feeling the Customer
 
 # Framing the Problem
 “A problem well defined is half solved”
